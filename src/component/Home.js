@@ -18,7 +18,7 @@ const Home = () => {
   return (
     <>
       <Search onSearch={onSearch} />
-      <div className="grid">
+      <div data-testid="cryptoex" className="grid">
         {allCrypto.loading ? (<div className="animate" />) : (
           allCrypto.filter((exchange) =>
             // eslint-disable-next-line

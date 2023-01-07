@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-
-<div align="center">
-  <img src="mylogo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -40,6 +32,10 @@
 
 - React
 - API
+- Webpack
+- NPM
+- Redux
+- Jest
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -59,21 +55,6 @@
     <li><a href="http://localhost:3000/">Crypto Trade-off</a></li>
   </ul>
 </details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,15 +132,18 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add counter for corresponding naviagation links indicating the number of rocket/ missions.
-- [ ] Add about page
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/yonas44/space-travelers-hub/issues).
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Original design idea by [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
 
 ## Show your support
 

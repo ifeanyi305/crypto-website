@@ -24,11 +24,7 @@ export const fetchCrypto = createAsyncThunk(
 
 const cryptoSlice = createSlice({
   name: 'crypto',
-  initialState: {
-    allCryptos: [],
-    loading: false,
-    error: '',
-  },
+  initialState: [],
   extraReducers: (builder) => {
     builder.addCase(fetchCrypto.pending, () => ({
       loading: true,

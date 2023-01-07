@@ -185,3 +185,7 @@ input {
 .volume-color {
   color: green;
 }
+
+.input-header {
+  display: none;
+}
