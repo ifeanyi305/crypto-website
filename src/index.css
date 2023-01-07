@@ -108,7 +108,7 @@ input {
   cursor: pointer;
   margin: 4px;
   border-radius: 8px;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 .flex:hover {
