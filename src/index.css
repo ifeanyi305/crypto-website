@@ -138,7 +138,17 @@ input {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  padding-top: 0;
+  grid-template-columns: repeat(2, 1fr);
+}
+.element-in-the-grid:nth-child(4n + 2),
+.element-in-the-grid:nth-child(4n + 3) {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+.element-in-the-grid:nth-child(4n - 4),
+.element-in-the-grid:nth-child(4n + 1) {
+  background-color: #eb4c89;
 }
 
 .auto {
