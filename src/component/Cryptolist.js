@@ -5,7 +5,8 @@ const Cryptolist = ({ coin, handleClick }) => {
   // eslint-disable-next-line
   const { name, image, trust_score_rank, url, id } = coin;
   return (
-    <div className="flex">
+  // eslint-disable-next-line
+    <div className="flex" onClick={() => handleClick(id)}>
       <div>
         <img src={image} alt={name} />
       </div>
