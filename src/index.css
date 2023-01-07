@@ -141,6 +141,7 @@ input {
   padding-top: 0;
   grid-template-columns: repeat(2, 1fr);
 }
+
 .element-in-the-grid:nth-child(4n + 2),
 .element-in-the-grid:nth-child(4n + 3) {
   background-color: rgba(0, 0, 0, 0.08);
