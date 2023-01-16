@@ -65,7 +65,6 @@
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://crypto-trade-off.netlify.app/)
-- [Live-video](https://drive.google.com/file/d/1YbxGd5WYNRa9KPaNBHV0jgqVBux61b0z/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
